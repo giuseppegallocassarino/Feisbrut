@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/edgemony-react-2021/static/css/main.bf7eaeb8.css",
+    "main.js": "/edgemony-react-2021/static/js/main.b4991afb.js",
+    "static/js/787.6814c60e.chunk.js": "/edgemony-react-2021/static/js/787.6814c60e.chunk.js",
+    "index.html": "/edgemony-react-2021/index.html",
+    "main.bf7eaeb8.css.map": "/edgemony-react-2021/static/css/main.bf7eaeb8.css.map",
+    "main.b4991afb.js.map": "/edgemony-react-2021/static/js/main.b4991afb.js.map",
+    "787.6814c60e.chunk.js.map": "/edgemony-react-2021/static/js/787.6814c60e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf7eaeb8.css",
+    "static/js/main.b4991afb.js"
+  ]
+}
