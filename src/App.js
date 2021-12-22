@@ -1,5 +1,3 @@
-
-   
 import { useReducer } from "react";
 import { Routes, Route } from "react-router-dom";
 
@@ -8,6 +6,7 @@ import Footer from "./components/Footer";
 import NewPost from "./pages/NewPost";
 import Messages from "./pages/Messages";
 import Friends from "./pages/Friends";
+import Login from "./components/Login";
 
 import Home from "./pages/Home";
 
@@ -36,6 +35,7 @@ function App() {
   return (
     <div>
       <Header name={state.name} links={state.nav} />
+      <Login></Login>
 
       <button onClick={() => dispatch({ type: "change-name" })}>
         Cambia nome
